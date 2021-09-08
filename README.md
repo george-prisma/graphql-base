@@ -1,2 +1,2 @@
 # graphql-base
-GraphQL-Apollo boilerplate for pagination example.
+Prisma-Nexus-GraphQL-Apollo template repository for pagination tutorial.
